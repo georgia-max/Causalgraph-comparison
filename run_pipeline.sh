@@ -8,7 +8,7 @@ NUM_ITERATIONS=1
 
 # Step 1: Generate synthetic data
 echo "Generating synthetic data..."
-python generate_synthetic_data_v3.py \
+python generate_synthetic_data.py \
     --input $INPUT_FILE \
     --output_folder $OUTPUT_FOLDER \
     --num_iterations $NUM_ITERATIONS
