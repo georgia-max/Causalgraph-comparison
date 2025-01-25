@@ -1,0 +1,65 @@
+﻿ID,label_cld,generated_cld_DOT,,
+0,"digraph {""student enrollment"" -> ""school capacity strain"" [arrowhead=tee]
+    ""school capacity strain"" -> ""student enrollment"" [arrowhead=vee]}","digraph {""student enrollment"" -> ""school capacity strain"" [arrowhead=tee]
+    ""school capacity strain"" -> ""student enrollment"" [arrowhead=vee]}",,
+1,"digraph {""student enrollment"" -> ""school capacity strain"" [arrowhead=tee]
+    ""school capacity strain"" -> ""student enrollment"" [arrowhead=vee]}","digraph {""student demand"" -> ""school capacity strain"" [arrowhead=tee]
+    ""school capacity strain"" -> ""student demand"" [arrowhead=vee]}",,
+2,"digraph {""student enrollment"" -> ""school capacity strain"" [arrowhead=tee]
+    ""school capacity strain"" -> ""student enrollment"" [arrowhead=vee]}","digraph {""numbers of student"" -> "" school capacity strain"" [arrowhead=tee]
+    ""school capacity strain"" -> ""numbers of student"" [arrowhead=vee]}",,
+3,"digraph {""student enrollment"" -> ""school capacity strain"" [arrowhead=tee]
+    ""school capacity strain"" -> ""student enrollment"" [arrowhead=vee]}","digraph {""student attendance"" -> ""school capacity strain"" [arrowhead=tee]
+    ""school capacity strain"" -> ""student attendance"" [arrowhead=vee]}",,
+4,"digraph {""student enrollment"" -> ""school capacity strain"" [arrowhead=tee]
+    ""school capacity strain"" -> ""student enrollment"" [arrowhead=vee]}","digraph {""numbers of teacher"" -> ""school capacity strain"" [arrowhead=tee]
+    ""school capacity strain"" -> ""numbers of teacher"" [arrowhead=vee]}",,
+5,"digraph {""student enrollment"" -> ""school capacity strain"" [arrowhead=tee]
+    ""school capacity strain"" -> ""student enrollment"" [arrowhead=vee]}","digraph {""student experience"" -> ""school capacity strain"" [arrowhead=tee]
+    ""school capacity strain"" -> ""student experience"" [arrowhead=vee]}",,
+6,"digraph {""student enrollment"" -> ""school capacity strain"" [arrowhead=tee]
+    ""school capacity strain"" -> ""student enrollment"" [arrowhead=vee]}","digraph {""school ranking"" -> ""school capacity strain"" [arrowhead=tee]
+    ""school ranking"" -> ""student enrollment"" [arrowhead=vee]}",,
+7,"digraph {""student enrollment"" -> ""school capacity strain"" [arrowhead=tee]
+    ""school capacity strain"" -> ""student enrollment"" [arrowhead=vee]}","digraph {""numbers of ice creams"" -> ""school capacity strain"" [arrowhead=tee]
+    ""school capacity strain"" -> ""numbers of ice creams"" [arrowhead=vee]}",,
+8,"digraph {""student enrollment"" -> ""school capacity strain"" [arrowhead=tee]
+    ""school capacity strain"" -> ""student enrollment"" [arrowhead=vee]  
+""school capacity strain"" -> ""school ranking"" [arrowhead=tee] }
+","digraph {""student enrollment"" -> ""school capacity strain"" [arrowhead=tee]
+    ""school capacity strain"" -> ""student enrollment"" [arrowhead=vee]  
+""school capacity strain"" -> ""school ranking"" [arrowhead=tee] }",,
+9,"digraph {""student enrollment"" -> ""school capacity strain"" [arrowhead=tee]
+    ""school capacity strain"" -> ""student enrollment"" [arrowhead=vee]  
+""school capacity strain"" -> ""school ranking"" [arrowhead=tee] }
+","digraph {""student enrollment"" -> ""school capacity strain"" [arrowhead=tee]
+    ""school capacity strain"" -> ""student enrollment"" [arrowhead=vee]  
+""school capacity strain"" -> ""school ranking"" [arrowhead=vee] 
+""demographic student population"" -> ""student enrollment"" [arrowhead= vee]}
+",,
+10,"digraph {""student enrollment"" -> ""school capacity strain"" [arrowhead=tee]
+    ""school capacity strain"" -> ""student enrollment"" [arrowhead=vee]  
+""school capacity strain"" -> ""school ranking"" [arrowhead=tee] }
+","digraph {""student enrollment"" -> ""school capacity strain"" [arrowhead=tee]
+""school capacity strain"" -> ""school enrollment"" [arrowhead=vee] }
+",,
+11,"digraph {""student enrollment"" -> ""school capacity strain"" [arrowhead=tee]
+    ""school capacity strain"" -> ""student enrollment"" [arrowhead=vee]  
+""school capacity strain"" -> ""school ranking"" [arrowhead=tee] }
+","digraph {""student enrollment"" -> ""school capacity strain"" [arrowhead=vee]
+    ""school capacity strain"" -> ""student enrollment"" [arrowhead=vee]  
+""school capacity strain"" -> ""school ranking"" [arrowhead=tee] }",,
+12,"digraph {""student enrollment"" -> ""school capacity strain"" [arrowhead=tee]
+    ""school capacity strain"" -> ""student enrollment"" [arrowhead=vee]  
+""school capacity strain"" -> ""school ranking"" [arrowhead=tee] }
+","digraph {""student enrollment"" -> ""school capacity strain"" [arrowhead=vee]
+    ""school capacity strain"" -> ""student enrollment"" [arrowhead=vee]  
+""school capacity strain"" -> ""school ranking"" [arrowhead=vee] 
+""demographic student population"" -> ""student enrollment"" [arrowhead= vee]}
+",,
+13,"digraph {""student enrollment"" -> ""school capacity strain"" [arrowhead=tee]
+    ""school capacity strain"" -> ""student enrollment"" [arrowhead=vee]  
+""school capacity strain"" -> ""school ranking"" [arrowhead=tee] }
+","digraph {""student enrollment"" -> ""school capacity strain"" [arrowhead=vee]
+""school capacity strain"" -> ""student enrollment"" [arrowhead=vee] }
+",,
